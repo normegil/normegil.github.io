@@ -2,7 +2,7 @@
 theme = "hugo-theme-codex" 
 
 # Override these settings with your own
-title = "codex"
+title = "Normegil - Backend development, patterns and design principles"
 languageCode = "en-us"
 baseURL = "https://normegil.be/"
 copyright = "© {year}"
