@@ -67,5 +67,11 @@ copyright = "© {year}"
   title = "Blog"
   url = "/blog"
 
+[[menu.main]]
+  identifier = "sheets"
+  name = "sheets"
+  title = "Sheets"
+  url = "/sheets"
+
 
 
